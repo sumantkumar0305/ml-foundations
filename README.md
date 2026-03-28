@@ -22,7 +22,7 @@ The goal of ml-foundations is to serve as a learning playground for students, ho
 
 Clone the repository:
 
-git clone https://github.com/your-username/ml-foundations.git
+git clone https://github.com/sumantkumar0305/ml-foundations/.git
 
 Navigate into the project folder:
 
